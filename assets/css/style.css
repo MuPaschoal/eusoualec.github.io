@@ -276,24 +276,6 @@ a:hover, a:focus, a:active {
   margin-bottom: 15px;
   width: 100%;
 }
-.cause .cause-icon-wrapper {
-  background: #ffffff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 160px;
-  margin-bottom: 15px;
-  padding: 20px;
-}
-.cause .cause-icon {
-  max-width: 80px;
-  max-height: 80px;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  display: block;
-  margin: 0 auto;
-}
 .cause .cause-title {
   text-align: center;
   margin-bottom: 10px;
@@ -424,7 +406,7 @@ a:hover, a:focus, a:active {
 /* Pages
 ================================= */
 .page-heading {
-  background: url('../images/heading-bg.jpg?v=2') no-repeat center;
+  background: url('../images/heading-bg.jpg?1428795369') no-repeat center;
   background-size: cover;
   min-height: 190px;
   color: #fff;
